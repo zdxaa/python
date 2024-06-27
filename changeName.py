@@ -1,8 +1,6 @@
 import tkinter as tk
 from tkinter import Tk, filedialog
 import os,re
-
-
 # 创建主窗口对象
 window = tk.Tk()
 
